@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ankitkumar1804/food-donation"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/ankitkumar1804/food-donation/issues"
   },
   "homepage": "",
   "dependencies": {
